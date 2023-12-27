@@ -27,7 +27,7 @@
   "homepage": "https://github.com/EnergeticPixels/vuejs-poster#readme",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.15.2",
+    "axios": "^1.6.3",
     "body-parser": "^1.15.2",
     "dotenv": "^2.0.0",
     "express": "^4.14.0",
